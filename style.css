@@ -388,10 +388,3 @@ footer {
   font-size: 1rem;
   letter-spacing: 0.5px;
 }
-
-@media (max-width: 900px) {
-  .testimonial-list {
-    flex-direction: column;
-    gap: 1.5rem;
-  }
-}
